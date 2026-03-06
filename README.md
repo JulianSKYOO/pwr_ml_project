@@ -2,9 +2,9 @@
 
 ### Resources
 
-*[TBA]()
+* [TBA]()
 
-*[TBA]()
+* [TBA]()
 
 ### Version control
 
