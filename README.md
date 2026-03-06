@@ -1,5 +1,17 @@
 # Topic: TBA
 
+Contributors:
+
+Sungkyun Yoo, 294491
+
+Michał Sapijaszko,
+
+Konrad Leszczyński,
+
+Agata Stachnio, 
+
+
+
 ### Resources
 
 * [TBA]()
