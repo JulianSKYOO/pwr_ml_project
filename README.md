@@ -4,13 +4,7 @@ Contributors:
 
 Sungkyun Yoo, 294491
 
-Michał Sapijaszko,
-
-Konrad Leszczyński,
-
-Agata Stachnio, 
-
-
+names to be added
 
 ### Resources
 
